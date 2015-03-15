@@ -5,8 +5,8 @@ Welcome to Solo Cello Tunez. The following arrangements are a selection of piece
 
 ###Ghibli Arrangements
 * [x] Always With Me *(Spirited Away)*
-* [ ] Ashitaka And San (Princess Mononoke)
-* [ ] A Town Where You Can See The Ocean *(Kiki's Delivery Service)
+* [ ] Ashitaka And San *(Princess Mononoke)*
+* [ ] A Town Where You Can See The Ocean *(Kiki's Delivery Service)*
 * [ ] Carrying You *(Howl's Moving Castle)*
 * [ ] Hey Let's Go *(My Neighbor Totoro)*
 * [ ] I'll Be Fine *(My Neighbor Totoro)*
